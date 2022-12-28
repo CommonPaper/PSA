@@ -101,3 +101,5 @@
     19. **"Subcontractors"** means other people or companies engaged by <span class="keyterms_link">Provider</span> to perform some of the Services, including <span class="keyterms_link">Provider's</span> Affiliates.
     20. **"Third-Party Materials"** means any information, tools, materials, or intellectual property owned by anyone other than <span class="keyterms_link">Provider</span>, its Affiliates, or <span class="keyterms_link">Customer</span>.
     21. **"Usage Data"** means data and information about the provision, use, and performance of the Services based on <span class="keyterms_link">Customer's</span> use of the Services.
+
+    Common Paper Professional Services Agreement [Version 1.0](https://commonpaper.com/standards/professional-services-agreement/1.0/) free to use under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
