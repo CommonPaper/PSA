@@ -6,7 +6,7 @@ The Common Paper PSA was created by a committee of over 40 attorneys representin
 
 ## I see this agreement is hosted online. Does that mean it will change?
 
-Version 1 of this agreement will remain unchanged and hosted on [this page forever](https://commonpaper.com/standards/profesional-services-agreement/1.0). Over time, we will create new versions to accommodate changes to the law and additional use cases. We expect future changes to occur infrequently, and they will always be posted as a new version.
+Version 1 of this agreement will remain unchanged and hosted on [this page forever](https://commonpaper.com/standards/professional-services-agreement/1.0). Over time, we will create new versions to accommodate changes to the law and additional use cases. We expect future changes to occur infrequently, and they will always be posted as a new version.
 
 ## How do I use this agreement?
 
